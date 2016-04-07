@@ -1,0 +1,247 @@
+﻿Installing assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Installing service TaskScheduling...
+Creating EventLog source TaskScheduling in log Application...
+Rolling back assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Restoring event log to previous state for source TaskScheduling.
+Installing assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Rolling back assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Installing assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Rolling back assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Installing assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Installing service TaskScheduling...
+Creating EventLog source TaskScheduling in log Application...
+Rolling back assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Restoring event log to previous state for source TaskScheduling.
+Installing assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Installing service TaskScheduling...
+Service TaskScheduling has been successfully installed.
+Creating EventLog source TaskScheduling in log Application...
+Committing assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Uninstalling assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Removing EventLog source TaskScheduling.
+Service TaskScheduling is being removed from the system...
+Service TaskScheduling was successfully removed from the system.
+Installing assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Installing service TaskScheduling...
+Service TaskScheduling has been successfully installed.
+Creating EventLog source TaskScheduling in log Application...
+Committing assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Uninstalling assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Removing EventLog source TaskScheduling.
+Service TaskScheduling is being removed from the system...
+Service TaskScheduling was successfully removed from the system.
+Installing assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Installing service TaskScheduling...
+Service TaskScheduling has been successfully installed.
+Creating EventLog source TaskScheduling in log Application...
+Committing assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Uninstalling assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Removing EventLog source TaskScheduling.
+Service TaskScheduling is being removed from the system...
+Service TaskScheduling was successfully removed from the system.
+Installing assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Installing service TaskScheduling...
+Service TaskScheduling has been successfully installed.
+Creating EventLog source TaskScheduling in log Application...
+Committing assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Uninstalling assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Removing EventLog source TaskScheduling.
+Service TaskScheduling is being removed from the system...
+Service TaskScheduling was successfully removed from the system.
+Installing assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Rolling back assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Installing assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Installing service TaskScheduling...
+Service TaskScheduling has been successfully installed.
+Creating EventLog source TaskScheduling in log Application...
+Committing assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Uninstalling assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Removing EventLog source TaskScheduling.
+Service TaskScheduling is being removed from the system...
+Service TaskScheduling was successfully removed from the system.
+Installing assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Installing service TaskScheduling...
+Service TaskScheduling has been successfully installed.
+Creating EventLog source TaskScheduling in log Application...
+Committing assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Uninstalling assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Removing EventLog source TaskScheduling.
+Service TaskScheduling is being removed from the system...
+Service TaskScheduling was successfully removed from the system.
+Installing assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Installing service TaskScheduling...
+Service TaskScheduling has been successfully installed.
+Creating EventLog source TaskScheduling in log Application...
+Committing assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Uninstalling assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Removing EventLog source TaskScheduling.
+Service TaskScheduling is being removed from the system...
+Service TaskScheduling was successfully removed from the system.
+Installing assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Installing service TaskScheduling...
+Service TaskScheduling has been successfully installed.
+Creating EventLog source TaskScheduling in log Application...
+Committing assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Uninstalling assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Removing EventLog source TaskScheduling.
+Service TaskScheduling is being removed from the system...
+Service TaskScheduling was successfully removed from the system.
+Attempt to stop service TaskScheduling.
+Installing assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Installing service TaskScheduling...
+Service TaskScheduling has been successfully installed.
+Creating EventLog source TaskScheduling in log Application...
+Committing assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Uninstalling assembly 'C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.InstallLog
+   assemblypath = C:\Users\Temp\Desktop\6th Semester\IPT\Assignments\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+Removing EventLog source TaskScheduling.
+Service TaskScheduling is being removed from the system...
+Service TaskScheduling was successfully removed from the system.
+Attempt to stop service TaskScheduling.

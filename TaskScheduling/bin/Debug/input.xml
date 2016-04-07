@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tasks>
+  <Task name="free space on C" type="FreeSpace">
+    <Occurrence starttime="23:35" repeat="00:01:00" endtime="06:40" />
+    <FreeSpace disk="C" />
+  </Task>
+<Task name="Memory Used" type="MemoryUsed">
+<Occurrence starttime="23:35" repeat="00:01:00" endtime="06:40" />
+</Task>
+</Tasks>
